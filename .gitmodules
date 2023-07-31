@@ -1,3 +1,9 @@
 [submodule "Analyzer-App-Core"]
 	path = Analyzer-App-Core
 	url = git@github.com:PFi-Analyzer/Analyzer-App-Core.git
+[submodule "Analyzer-App-Loan"]
+	path = Analyzer-App-Loan
+	url = git@github.com:PFi-Analyzer/Analyzer-App-Loan.git
+[submodule "Analyzer-App-Trend"]
+	path = Analyzer-App-Trend
+	url = git@github.com:PFi-Analyzer/Analyzer-App-Trend.git
