@@ -1,0 +1,3 @@
+[submodule "Analyzer-App-Core"]
+	path = Analyzer-App-Core
+	url = git@github.com:PFi-Analyzer/Analyzer-App-Core.git
